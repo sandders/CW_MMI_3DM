@@ -9,3 +9,5 @@
 
 
 Лазуткін Олег-"Розроблення компонент голосового інтерфейсу."
+
+Не забудьте перед використанням встановити всі [requirements.txt](https://github.com/sandders/CW_MMI_3DM/blob/main/requirements.txt)
